@@ -81,6 +81,7 @@
     </resources>
     <!-- define build -->
    
+   <plugins>
       <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>buildnumber-maven-plugin</artifactId>
